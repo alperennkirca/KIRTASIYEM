@@ -1,7 +1,7 @@
 
   # Kırtasiyem
 
-  This is a code bundle for Kırtasiyem. The original project is available at https://www.figma.com/design/aeE1ATJhzJz2T75uKZ2MaK/K%C4%B1rtasiyem.
+  This is a code bundle for Kırtasiyem. Created by alperennkirca
 
   ## Running the code
 
